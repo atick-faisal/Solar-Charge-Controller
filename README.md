@@ -16,9 +16,14 @@
   - LVD = 10.8V, LRV = 12.5V
 ```
 
+## Schematic
+<p align="center">
+  <img src="schematic.png" width="700" />
+</p>
+
 ## Tuning the Circuit
 <p align="center">
-  <img src="Matlab Codes/scell.jpg" width="700"/>
+  <img src="Matlab Codes/scell.jpg" width="800"/>
   <br>
-  <img src="Matlab Codes/load.jpg" width="700"/>
+  <img src="Matlab Codes/load.jpg" width="800"/>
 </p>

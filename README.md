@@ -10,11 +10,10 @@
 </p>
 
 ## Specifications
-```
-  - Battery Voltage : 12V
-  - VR = 14.4V, ARV = 13.0V
-  - LVD = 10.8V, LRV = 12.5V
-```
+
+ ##### Battery Voltage : 12V
+ ##### VR = 14.4V, ARV = 13.0V
+ ##### LVD = 10.8V, LRV = 12.5V
 
 ## Schematic
 <p align="center">
@@ -27,3 +26,13 @@
   <br>
   <img src="Matlab Codes/load.jpg" width="800"/>
 </p>
+
+## Simulation Result
+<p align="center">
+  <img src="simulation.png" width="700" />
+</p>
+
+## License
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
+
+This work is licensed under `Apache License 2.0`

@@ -4,8 +4,21 @@
 <p align="center">
   <img src="pcb2.png" width="700" />
 </p>
-
 <p align="center">
   <img src="pcb1.png" width="400" height="290"/>
   <img src="pcb3.png" width="400" height="290"/>
+</p>
+
+## Specifications
+```
+  - Battery Voltage : 12V
+  - VR = 14.4V, ARV = 13.0V
+  - LVD = 10.8V, LRV = 12.5V
+```
+
+## Tuning the Circuit
+<p align="center">
+  <img src="Matlab Codes/scell.jpg" width="700"/>
+  <br>
+  <img src="Matlab Codes/load.jpg" width="700"/>
 </p>
